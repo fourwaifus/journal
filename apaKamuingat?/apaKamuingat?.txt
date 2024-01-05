@@ -3,9 +3,9 @@ tanggal : 5/1/2024
 status : onGoing
 
 isi : {
-    hai, kamu mungkin sudah bosan menganggur, atu kau sudah tidak betah di pekerjaan mu saat ini.
-    ini aku, dirimu yang masih segar dan masih mempunyai waktu untuk belajar banyak hal, mungkin saat ini,
-    kamu tidak punya banyak waktu tapi ingin cepat membuka kemmbali ingatan masa lalu, tentang apa yang kamu
+    hai, kamu mungkin sudah bosan menganggur, atau kamu sudah tidak betah lagi di pekerjaan mu saat ini?.
+    ini aku, dirimu yang masih segar dan masih mempunyai waktu untuk belajar banyak hal. mungkin saat ini,
+    kamu tidak punya banyak waktu tapi ingin cepat membuka kembali ingatan masa lalu, tentang apa yang kamu
     sudah pelajari, karena itulah. dirimu membuat jurnal ini, jadi jurnal ini berisi semua materi yang pernah kamu
     pelajari untuk bisa sampai ketitik yang sekarang kamu jalani, tenang kamu yang dulu itu tahu kamu pemalas apalagi
     waktu mu tidak banyak bukan?, jadi jurnal ini sudah diringkas sedemikian rupa agar dapat dipahami setelah 2 kali dibaca.
